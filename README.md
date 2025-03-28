@@ -9,10 +9,6 @@
 
 - 👨‍💻 Checkout the Portfolio (Work in Progress) [https://dimitripetrakis.com/](https://dimitripetrakis.com/)
 
-- 📈 Checkout my Reels [https://www.instagram.com/dimitri_petrakis/](https://www.instagram.com/dimitri_petrakis/)
-
-- 💬 Ask me about **how to grow on Instagram**
-
 - 📫 How to reach me **dimitripetrakisvic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
