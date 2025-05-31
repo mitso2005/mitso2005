@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [my personal portfolio](https://github.com/mitso2005/portfolio)
 
-- 🌱 I’m currently learning **Java, MySQL and React Native**
+- 🌱 I’m currently learning **Java and React Native**
 
-- 👨‍💻 Checkout the Portfolio (Work in Progress) [https://dimitris-portfolio.onrender.com](https://dimitris-portfolio.onrender.com) soon to be -> [https://dimitripetrakis.com/](https://dimitripetrakis.com/)
+- 👨‍💻 Checkout my Portfolio [https://dimitripetrakis.com/](https://dimitripetrakis.com/)
 
 - 📫 How to reach me **dimitripetrakisvic@gmail.com**
 
