@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and React Native**
 
-- 👨‍💻 Checkout my Portfolio [https://dimitripetrakis.com/](https://dimitripetrakis.com/)
+- 👨‍💻 Checkout my Portfolio [https://dimitripetrakis.com/](https://dimitripetrakis.com)
 
 - 📫 How to reach me **dimitripetrakisvic@gmail.com**
 
