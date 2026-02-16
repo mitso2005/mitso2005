@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer from Melbourne</h3>
 
 - Wannabe startup: [Between Friends](https://between-friends-web.vercel.app/)
-- Current hobby project: [github.com/mitso2005/loukaniko](https://github.com/mitso2005/loukaniko)
+- Current hobby project: [Loukaniko](https://github.com/mitso2005/loukaniko)
 - Working at: [Peoplebank](https://www.peoplebank.com.au/)
 
 - I enjoy coding in: **Python, React, Java**
