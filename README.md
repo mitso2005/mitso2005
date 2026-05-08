@@ -3,7 +3,6 @@
 
 - Wannabe startup: [Between Friends](https://between-friends-web.vercel.app/)
 - Current hobby project: [Loukaniko](https://github.com/mitso2005/loukaniko)
-- Working at: [Peoplebank](https://www.peoplebank.com.au/)
 
 - I enjoy coding in: **Python, React, Java**
 
