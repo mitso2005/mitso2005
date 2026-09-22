@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, my name's Dimitri</h1>
-<h3 align="center">I'm a software engineer from Melbourne</h3>
+Computer Science student at the University of Melbourne and Software Engineer.
 
-- Wannabe startup: [Between Friends](https://between-friends-web.vercel.app/)
-- Current hobby project: [Loukaniko](https://github.com/mitso2005/loukaniko)
+Currently working part-time at **Partners In Planning**, building and maintaining internal software, automations, APIs and web applications.
 
-- I enjoy coding in: **Python, React, Java**
+### Private Projects
 
-- Portfolio (Outdated): [https://dimitripetrakis.com](https://dimitripetrakis.com)
-- Email: **dimitripetrakisvic@gmail.com**
-- LinkedIn: [linkedin.com/in/dptrks](www.linkedin.com/in/dptrks)
+[Between Friends](https://between-friends-web.vercel.app/)
+
+A startup project that finds fair meeting points based on travel times and locations.
+
+[CISSA Detective](https://cissa-detective.onrender.com/)
+
+An game where you complete against AI to detect AI, built with the CISSA engineering team.
+
+### Links
+
+* [Website](https://dimitripetrakis.com) - outdated
+* [LinkedIn](https://www.linkedin.com/in/dptrks)
+* [Email](mailto:dimitripetrakisvic@gmail.com)
