@@ -1,6 +1,4 @@
-Computer Science student at the University of Melbourne and Software Engineer.
-
-Currently working part-time at **Partners In Planning**, building and maintaining internal software, automations, APIs and web applications.
+CS @ The University of Melbourne | SWE @ Partners In Planning
 
 ### Private Projects
 * [Between Friends](https://between-friends-web.vercel.app/) - A webapp that finds fair meeting points based on travel times and locations.
